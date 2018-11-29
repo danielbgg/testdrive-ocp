@@ -9,7 +9,7 @@ Material dedicado à discussão introdutória sobre a tecnologia de containers L
 * Onde as imagens ficam armazenadas?
 * Laboratório: Docker
 
-## Parte 2 - OpenShift (Dev)
+## Parte 2 - OpenShift (Dev ou Ops)
 Material dedicado à discussão sobre o OpenShift na perspectiva do desenvolvedor.
 * Afinal, o que é o OpenShift?
 * Como ele funciona de verdade?
