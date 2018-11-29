@@ -12,4 +12,4 @@ O Test Drive é dividido em 2 partes:
 * Cliente **git** instalado no notebook
 * Acesso à **Internet é indispensável**
 * 1 notebook por pessoa
-* Alguns dos laboratórios precisarão do utilitário **oc (Openshift Client)**. Vamos disponibilizar o binário (windows/linux/mac) via Github. Então é necessário que os participantes **possam acessar o Github e instalar o utilitário**. 
+* Alguns dos laboratórios precisarão do utilitário **oc (Openshift Client)**. Vamos disponibilizar o binário (windows/linux/mac) via Github. Então é necessário que os participantes **possam acessar o Github e instalar o utilitário**: https://github.com/kerdlix/testdrive-ocp/tree/master/3.11 
